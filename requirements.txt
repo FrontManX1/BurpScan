@@ -1,0 +1,6 @@
+aiohttp
+requests
+websockets
+beautifulsoup4
+rich
+dnspython
